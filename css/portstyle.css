@@ -1,0 +1,38 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #565656;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pic-border {
+    border: 1px solid #D7CEC7;
+}
+
+.text-muted {
+    color: #C09F80;
+}
+
+.text-lively {
+    color: #76323F;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 10px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
